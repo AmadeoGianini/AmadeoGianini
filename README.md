@@ -1,4 +1,4 @@
 [![My Skills](https://skillicons.dev/icons?i=lua,js,css,html,vue,scss)](https://skillicons.dev)
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AmadeoGianini}&theme={solarized}
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=AmadeoGianini&limit=5)
