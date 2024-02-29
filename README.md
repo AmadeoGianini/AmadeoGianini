@@ -1,3 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmadeoGianini&theme=dark)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmadeoGianini&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmadeoGianini&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmadeoGianini&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmadeoGianini&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmadeoGianini&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmadeoGianini&theme=algolia&utcOffset=8)
