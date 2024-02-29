@@ -1,1 +1,1 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AmadeoGianini/langs)](https://githubtrends.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,lua)](https://skillicons.dev)
