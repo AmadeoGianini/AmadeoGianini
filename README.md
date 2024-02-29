@@ -1,1 +1,1 @@
-[![My user statistics](images/userstats.svg)](https://github.com/AmadeoGianini/user-statistician)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmadeoGianini&theme=dark)](https://git.io/streak-stats)
